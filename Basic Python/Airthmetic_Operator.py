@@ -73,3 +73,12 @@ print(a>>b)
 #Membership Operators
 #################################################################
 
+a=55;
+b=-60
+
+if a>0:
+    print('Positive')
+if a<0:
+    print('Negative')
+
+     
