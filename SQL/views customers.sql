@@ -1,0 +1,1 @@
+SELECT * FROM classmodels.count_of_customers;
